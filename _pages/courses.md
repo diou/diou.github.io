@@ -2,10 +2,12 @@
 layout: page
 permalink: /courses/
 title: courses
-description: List of courses I teach at DIT@HUA. Students please refer to the eclass system for course announcements, projects and material.
+description: List of courses I teach at DIT@HUA.
 nav: true
 nav_order: 2
 ---
+
+This is a brief description of courses I teach at the Department of Informatics and Telematics, Harokopio University of Athens. Students please refer to the [eclass](https://eclass.hua.gr) system for course announcements, projects and material.
 
 ### Artificial Intelligence
 
