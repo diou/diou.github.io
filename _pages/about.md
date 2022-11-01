@@ -23,7 +23,7 @@ Hello and welcome to my homepage. I am an Assistant Professor of Artificial Inte
 
 My research focuses on the development of novel machine learning algorithms and their applications in healthcare. My recent research interests include the development of methods for the measurement and modeling of human behavior for health applications, the development of machine learning algorithms that generalize across domains and the use of machine learning for causal effect estimation from observational data.
 
-I have published several [papers](/publications) in international research journals and conferences in topics related to Artificial Intelligence, Machine Learning and their applications, while I have over 15 years of experience participating in national and international research projects. I am currently the PI for the EU-funded projects REBECCA and RELEVIUM.
+I have published several [papers](/publications) in international research journals and conferences in topics related to Artificial Intelligence, Machine Learning and their applications, while I have over 15 years of experience participating in national and international research projects. I am currently the PI for the EU-funded projects [REBECCA](https://rebeccaproject.eu/) and [RELEVIUM](https://www.releviumproject.eu/).
 
 
 <!-- methods that can handle bias, are robust to distribution shifts and to label noise, can be  -->
