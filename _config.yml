@@ -93,7 +93,8 @@ contact_note: >
 google_analytics: G-M1J8YT00J3 # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: 3991000211 # your google-site-verification ID (Google Search Console)
+#google_site_verification: 3991000211 # your google-site-verification ID (Google Search Console)
+google_site_verification: google7cfa8f7d87fdba7a.html # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # # -----------------------------------------------------------------------------
@@ -221,7 +222,6 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
   last_name: Diou
   first_name: [Christos]
-
   style: apa
   locale: en
 
