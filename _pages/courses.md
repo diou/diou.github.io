@@ -28,3 +28,11 @@ This is a brief description of courses I teach at the Department of Informatics 
 ### Artificial Intelligence and Deep Learning in Healthcare
 
 > Course that is part of the [Digital Health and Analytics](https://mschealth.dit.hua.gr/) postgraduate program. It explores how deep learning algorithms can be useful for applications in healthcare.
+
+### Health and Communication Technologies (course module)
+
+> Course module that is taught jointly with the [School of Communication and Information](https://comminfo.rutgers.edu/) of [Rutgers University](https://https://rutgers.edu/).
+
+### Computational Intelligence and Cognitive Computing
+
+> Thematic Unit of the [MPhil in Computer Science and Informatics](https://mphil.dit.hua.gr/en/) postgraduate program at HUA
