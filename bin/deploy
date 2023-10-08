@@ -18,6 +18,11 @@ while [[ $# > 0 ]]; do
         exit 0
         ;;
         -u|--user)
+<<<<<<< HEAD
+=======
+        SRC_BRANCH="source"
+        DEPLOY_BRANCH="master"
+>>>>>>> 2ffc3f34 (...)
         ;;
         -s|--src)
         SRC_BRANCH="$2"
