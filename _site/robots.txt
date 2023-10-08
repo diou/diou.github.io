@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: diou.github.io/sitemap.xml
