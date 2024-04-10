@@ -7,15 +7,44 @@
 %% Thesis
 
 %% Journal articles
-@ARTICLE{BallasTETCI2023,
+@article{MelziIF2024,
+title = {FRCSyn-onGoing: Benchmarking and comprehensive evaluation of real and synthetic data to improve face recognition systems},
+journal = {Information Fusion},
+volume = {107},
+pages = {102322},
+year = {2024},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102322},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524001003},
+author = {Pietro Melzi and Ruben Tolosana and Ruben Vera-Rodriguez and Minchul Kim and Christian Rathgeb and Xiaoming Liu and Ivan DeAndres-Tame and Aythami Morales and Julian Fierrez and Javier Ortega-Garcia and Weisong Zhao and Xiangyu Zhu and Zheyu Yan and Xiao-Yu Zhang and Jinlin Wu and Zhen Lei and Suvidha Tripathi and Mahak Kothari and Md Haider Zama and Debayan Deb and Bernardo Biesseck and Pedro Vidal and Roger Granada and Guilherme Fickel and Gustavo Führ and David Menotti and Alexander Unnervik and Anjith George and Christophe Ecabert and Hatef Otroshi Shahreza and Parsa Rahimi and Sébastien Marcel and Ioannis Sarridis and Christos Koutlis and Georgia Baltsou and Symeon Papadopoulos and Christos Diou and Nicolò Di Domenico and Guido Borghi and Lorenzo Pellegrini and Enrique Mas-Candela and Ángela Sánchez-Pérez and Andrea Atzori and Fadi Boutros and Naser Damer and Gianni Fenu and Mirko Marras},
+bibtex_show = {true},
+abbr = {J}}
+
+@Article{BallasTAI2024,
   author={Ballas, Aristotelis and Diou, Christos},
-  journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
-  title={Towards Domain Generalization for ECG and EEG Classification: Algorithms and Benchmarks}, 
-  year=2023,
+  journal={IEEE Transactions on Artificial Intelligence},
+  title={Multi-Scale and Multi-Layer Contrastive Learning for Domain Generalization},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Feature extraction;Training;Task analysis;Self-supervised learning;Adaptation models;Representation learning;Image classification;Domain generalization;Representation learning;Contrastive learning;Image classification},
+  doi={10.1109/TAI.2024.3377173},
+  bibtex_show = {true},
+  abbr = {J}}
+
+@Article{BallasTETCI2024,
+  author={Ballas, Aristotelis and Diou, Christos},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  title={Towards Domain Generalization for ECG and EEG Classification: Algorithms and Benchmarks},
+  year=2024,
+  volume=8,
+  number=1,
+  pages={44-54},
+  keywords={Brain modeling;Biological system modeling;Electrocardiography;Data models;Electroencephalography;Adaptation models;Feature extraction;Biosignal classification;deep learning;domain generalization;1D signal classification;electrocardiogram (ECG) classification;electroencephalogram (EEG) classification},
   doi={10.1109/TETCI.2023.3306253},
   bibtex_show = {true},
-  abbr={J},
-  }
+  abbr={J}}
 
 @Article{Dhammawati2023Nutrients,
 AUTHOR = {Dhammawati, Friska and Fagerberg, Petter and Diou, Christos and Mavrouli, Ioanna and Koukoula, Evangelia and Lekka, Eirini and Stefanopoulos, Leandros and Maglaveras, Nicos and Heimeier, Rachel and Karavidopoulou, Youla and Ioakimidis, Ioannis},
@@ -284,7 +313,7 @@ ISSN={2168-2194},
   abbr = {J}
 }
 
-@ARTICLE{PapapanagiotouJBHI2017,
+@Article{PapapanagiotouJBHI2017,
 author={Papapanagiotou, Vasileios and Diou, Christos and Zhou, Lingchuan and van den Boer, Janet and Mars, Monica and Delopoulos, Anastasios}, 
 journal={IEEE Journal of Biomedical and Health Informatics}, 
 title={A Novel Chewing Detection System Based on PPG, Audio, and Accelerometry}, 
@@ -458,12 +487,69 @@ pages={299- 315},
 }
 
 %% Conference papers
+@inproceedings{melzi2024frcsyn,
+  title={FRCSyn Challenge at WACV 2024: Face Recognition Challenge in the Era of Synthetic Data},
+  author={Melzi, Pietro and Tolosana, Ruben and Vera-Rodriguez, Ruben and Kim, Minchul and Rathgeb, Christian and Liu, Xiaoming and DeAndres-Tame, Ivan and Morales, Aythami and Fierrez, Julian and Ortega-Garcia, Javier and others},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={892--901},
+  year={2024},
+  bibtex_show = {true},
+  abbr = {C}
+}
 
-@inproceedings{gkolemis2023rhale,
-  title={{RHALE}: Robust and heterogeneity-aware accumulated local effects},
+
+@inproceedings{KazazisPCI2023,
+author = {Kazazis, George and Chronis, Christos and Diou, Christos and Varlamis, Iraklis},
+title = {Development and evaluation of Reinforcement Learning models for the FOSSBot Open-Source educational robot},
+year = 2024,
+isbn = 9798400716263,
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3635059.3635064},
+doi = {10.1145/3635059.3635064},
+abstract = {Machine learning algorithms play a crucial role in addressing real-world tasks by harnessing data-driven insights to optimize and enhance decision-making processes. Their application in robotics usually relies on simulations as an essential testing ground, allowing us to refine solutions, minimize risks, and fine-tune algorithms before deploying them in practical, physical environments. In this work, we evaluate the performance of two popular reinforcement learning algorithms, namely Proximal Policy Optimization (PPO) and Deep Q Network (DQN): i) on an obstacle detection and avoidance task, and ii) on a navigation task. For this purpose, we rely on the FOSSBot open-source educational robot, which contains ultrasonic sensors, infrared obstacle sensors, an Inertial Measurement Unit, and odometers. More specifically, we work on a simulation of FOSSBot in the CoppeliaSim environment. The evaluation results on the grid environment are very promising for our algorithms since the success rates (i.e. reaching the destination without collision) for both algorithms is above 93\%. As for the simulated environment, the results show the superiority of PPO over DQN, with PPO scoring a success rate of 74\%, making it a promising navigation algorithm candidate for the real-world FOSSBot.},
+booktitle = {Proceedings of the 27th Pan-Hellenic Conference on Progress in Computing and Informatics},
+pages = {26–35},
+numpages = 10,
+keywords = {FOSSBot, Reinforcement Learning, Robotics, STEM, Simulation},
+series = {PCI '23},
+bibtex_show = {true},
+abbr = {C}
+}
+
+@InProceedings{MakrisESOCC2024,
+author="Makris, Antonios
+and Psomakelis, Evangelos
+and Korontanis, Ioannis
+and Theodoropoulos, Theodoros
+and Protopsaltis, Antonis
+and Pateraki, Maria
+and Ledwo{\'{n}}, Zbyszek
+and Diou, Christos
+and Anagnostopoulos, Dimosthenis
+and Tserpes, Konstantinos",
+editor="Papadopoulos, George A.
+and Rademacher, Florian
+and Soldani, Jacopo",
+title="Streamlining XR Application Deployment with a Localized Docker Registry at the Edge",
+booktitle="Service-Oriented and Cloud Computing",
+year=2023,
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="188--202",
+isbn="978-3-031-46235-1",
+bibtex_show = {true},
+abbr = {C}
+}
+
+@incollection{gkolemis2023rhale,
+  title={RHALE: Robust and Heterogeneity-Aware Accumulated Local Effects},
   author={Gkolemis, Vasilis and Dalamagas, Theodore and Ntoutsi, Eirini and Diou, Christos},
-  booktitle={European Conference on Artificial Intelligence (ECAI)},
+  booktitle={ECAI 2023},
+  pages={859--866},
   year={2023},
+  publisher={IOS Press},
+  bibtex_show = {true},
   abbr = {C}
 }
 
@@ -474,7 +560,6 @@ pages={299- 315},
   year={2023},
   abbr = {C}
 }
-
 
 @inproceedings{sarridis2023towards,
   title={Towards Fair Face Verification: An In-depth Analysis of Demographic Biases},
