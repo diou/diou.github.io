@@ -11,15 +11,15 @@ This is a brief description of courses I teach at the Department of Informatics 
 
 ### Artificial Intelligence
 
->Introductory course on Artificial Intelligence (undergraduate). The course provides an introduction to basic concepts and definitions regarding artificial intelligence, summarizes the current state of art and introduces students to classic AI algorithms including algorithms for uninformed and informed search, adversarial search, constraint satisfaction problems, Markov Decision Processes and a brief introduction to reinforcement learning. Students apply these algorithms in Python projects.
+>Introductory course on Artificial Intelligence (undergraduate). The course provides an introduction to basic concepts and definitions related to artificial intelligence, summarizes the current state of art and introduces students to classic AI algorithms, including algorithms for uninformed and informed search and adversarial search. The course also offers an introduction to machine learning. Students implement and apply these algorithms in Python projects.
 
 ### Machine Learning and Applications
 
-> This is an introductory course for Machine Learning (undergraduate). It is heavily geared towards Artificial Neural Networks and their applications for tabular data, text, signals and images. Students learn elements of theory for training linear models and ANNs, convolutional neural networks and popular CNN architectures, as well as embedding-based architectures for processing text. The course relies heavily on projects that use scikit-learn and Tensorflow in Python.
+> This is an introductory course for Machine Learning (undergraduate). It is heavily geared towards Artificial Neural Networks and their applications for tabular data, text, signals and images. Students learn elements of theory for training linear models and ANNs, convolutional neural networks and popular CNN architectures, as well as attention-based architectures and transformers for text processing. The course relies heavily on projects that use scikit-learn and Pytorch in Python.
 
 ### Programming I
 
-> This course introduces students to programming using the C language (undergraduate). It offers an understanding to basic procedural programming concepts, of how memory is organized inside a computer, while it also introduces students to basic algorithms for sorting and searching.
+> This course introduces students to programming concepts and algorithms using the C language (undergraduate). It offers an understanding to basic procedural programming concepts, of how memory is organized inside a computer, while it also introduces students to basic algorithms for sorting and searching.
 
 ### Artificial Intelligence and its Applications on the Internet of Things
 
@@ -31,8 +31,8 @@ This is a brief description of courses I teach at the Department of Informatics 
 
 ### Health and Communication Technologies (course module)
 
-> Course module that is taught jointly with the [School of Communication and Information](https://comminfo.rutgers.edu/) of [Rutgers University](https://https://rutgers.edu/).
+> Course module that is taught jointly with the [School of Communication and Information](https://comminfo.rutgers.edu/) of [Rutgers University](https://rutgers.edu/).
 
 ### Computational Intelligence and Cognitive Computing
 
-> Thematic Unit of the [MPhil in Computer Science and Informatics](https://mphil.dit.hua.gr/en/) postgraduate program at HUA
+> Thematic Unit of the [MPhil in Computer Science and Informatics](https://mphil.dit.hua.gr/en/) postgraduate program at HUA. The course involves study and small-scale research projects aiming at preparing students for a PhD in various areas areas of artificial intelligence. 
