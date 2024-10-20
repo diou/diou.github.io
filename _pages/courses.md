@@ -21,9 +21,13 @@ This is a brief description of courses I teach at the Department of Informatics 
 
 > This course introduces students to programming concepts and algorithms using the C language (undergraduate). It offers an understanding to basic procedural programming concepts, of how memory is organized inside a computer, while it also introduces students to basic algorithms for sorting and searching.
 
-### Artificial Intelligence and its Applications on the Internet of Things
+<!-- ### Artificial Intelligence and its Applications on the Internet of Things -->
 
-> Course that is part of the [Informatics and Telematics](https://msc.dit.hua.gr/) postgraduate program. It explores how signals and data streams produced by IoT devices can be used to develop artificial intelligence application, with a focus on training of classification and regression models. 
+<!-- > Course that is part of the [Informatics and Telematics](https://msc.dit.hua.gr/) postgraduate program. It explores how signals and data streams produced by IoT devices can be used to develop artificial intelligence application, with a focus on training of classification and regression models.  -->
+
+### Deep Learning
+
+> Postgraduate course on Deep Learning, part of the [Data science and AI](https://msc.dit.hua.gr/_ai/) postgraduate programme at [DIT/HUA](https://www.dit.hua.gr/).
 
 ### Artificial Intelligence and Deep Learning in Healthcare
 
