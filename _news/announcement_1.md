@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-01
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+We are happy to announce that our AIAI2022 paper with Niki Kiriakidou received the best paper award! Paper preprint is available on [arxiv](https://arxiv.org/abs/2205.11106)
+
