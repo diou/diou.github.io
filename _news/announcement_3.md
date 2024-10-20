@@ -10,4 +10,3 @@ Please find pre-prints of our recent papers that will appear on [SETN 2022](http
  - [N. Kiriakidou and C. Diou, "An evaluation framework for comparing causal inference models", SETN 2022](https://arxiv.org/abs/2209.00115)
  - [A. Ballas and C. Diou, "Multi-layer Representation Learning for Robust OOD Image Classification", SETN 2022](https://arxiv.org/abs/2207.13678)
  - [A. Ballas, V. Papapanagiotou, A. Delopoulos and C. Diou, "Listen to your heart: A self-supervised approach for detecting murmur in heart-beat sounds for the Physionet 2022 challenge", CinC 2022](https://arxiv.org/abs/2208.14845)
-

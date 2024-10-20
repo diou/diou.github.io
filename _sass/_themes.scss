@@ -1,11 +1,7 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 9cd59407 (first website version)
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
@@ -13,10 +9,7 @@
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$purple-color};
   --global-hover-color: #{$purple-color};
-<<<<<<< HEAD
   --global-hover-text-color: #{$white-color};
-=======
->>>>>>> 9cd59407 (first website version)
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -24,7 +17,6 @@
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
 
-<<<<<<< HEAD
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
@@ -38,8 +30,6 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-=======
->>>>>>> 9cd59407 (first website version)
   .fa-sun {
     display : none;
   }
@@ -64,10 +54,7 @@ html[data-theme='dark'] {
   --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$cyan-color};
   --global-hover-color: #{$cyan-color};
-<<<<<<< HEAD
   --global-hover-text-color: #{$white-color};
-=======
->>>>>>> 9cd59407 (first website version)
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
@@ -75,7 +62,6 @@ html[data-theme='dark'] {
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
 
-<<<<<<< HEAD
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
@@ -89,8 +75,6 @@ html[data-theme='dark'] {
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
-=======
->>>>>>> 9cd59407 (first website version)
   .fa-sun {
     padding-left: 10px;
     padding-top: 12px;

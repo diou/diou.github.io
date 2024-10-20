@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FROM ubuntu:latest
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -39,3 +40,18 @@ EXPOSE 8080
 COPY bin/entry_point.sh /tmp/entry_point.sh
 
 CMD ["/tmp/entry_point.sh"]
+=======
+FROM jekyll/jekyll
+Label MAINTAINER Amir Pourmand
+#install imagemagick tool for convert command
+RUN apk add --no-cache --virtual .build-deps \
+        libxml2-dev \
+        shadow \
+        autoconf \
+        g++ \
+        make \
+    && apk add --no-cache imagemagick-dev imagemagick
+WORKDIR /srv/jekyll
+ADD Gemfile /srv/jekyll/
+RUN bundle install
+>>>>>>> 2b428c27085f751397714cc92e8089fcc3bb9a65

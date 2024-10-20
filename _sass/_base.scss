@@ -45,9 +45,6 @@ table.table a {
     text-decoration: underline;
   }
 
-
-=======
-
 .table-dark {
   background-color: transparent;
   &.table-bordered{
@@ -1070,7 +1067,6 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
-=======
   .post-content{
     blockquote {
       border-left: 5px solid var(--global-theme-color);
@@ -1078,4 +1074,3 @@ nav[data-toggle="toc"] {
     }
   }
 }
->>>>>>> 9cd59407 (first website version)
